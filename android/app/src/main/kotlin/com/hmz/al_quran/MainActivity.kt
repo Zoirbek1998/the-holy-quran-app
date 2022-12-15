@@ -1,4 +1,4 @@
-package com.hmz.al_quran
+package dev.future.alquran
 
 import io.flutter.embedding.android.FlutterActivity
 

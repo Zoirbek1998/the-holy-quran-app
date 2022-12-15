@@ -16,7 +16,7 @@ The data is fetched using API and now the **offline mode** is available. So, you
 
 ## 📁 Download Now
 
-Get it from <a href="https://play.google.com/store/apps/details?id=com.hmz.al_quran">Play Store</a>
+Get it from <a href="https://play.google.com/store/apps/details?id=dev.future.alquran">Play Store</a>
 
 ## 🎥 Promo Video
 
